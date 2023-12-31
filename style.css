@@ -59,3 +59,12 @@ footer a {
     color: #00bcd4;
     text-decoration: none;
 }
+
+#intro h3 {
+    font-size: 30px; /* Adjust the size as needed */
+ }
+
+  /* Modify the size of p */
+#intro p {
+    font-size: 25px; /* Adjust the size as needed */
+  }
